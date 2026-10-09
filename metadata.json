@@ -1,0 +1,6 @@
+{
+  "name": "TuCancha Pro",
+  "description": "Sistema avanzado de reserva y gestión de canchas deportivas con soporte web y base de datos Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
